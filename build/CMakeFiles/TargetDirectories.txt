@@ -1,0 +1,3 @@
+/home/serg/Documents/wxExamble_first/build/CMakeFiles/wxhello.dir
+/home/serg/Documents/wxExamble_first/build/CMakeFiles/edit_cache.dir
+/home/serg/Documents/wxExamble_first/build/CMakeFiles/rebuild_cache.dir
