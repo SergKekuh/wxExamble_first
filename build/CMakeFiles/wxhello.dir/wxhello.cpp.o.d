@@ -1,5 +1,5 @@
 CMakeFiles/wxhello.dir/wxhello.cpp.o: \
- /home/serg/Documents/wxExamble_first/wxhello.cpp \
+ /home/serg/Documents/wxExample_first/wxhello.cpp \
  /usr/include/stdc-predef.h /usr/local/include/wx-3.2/wx/wx.h \
  /usr/local/include/wx-3.2/wx/defs.h \
  /usr/local/include/wx-3.2/wx/platform.h \
