@@ -33,3 +33,16 @@ add_executable(wxhello WIN32 ${SRCS})
 # set for us by the find script. If you need other libraries, you
 # can add them here as well. 
 target_link_libraries(wxhello ${wxWidgets_LIBRARIES})
+
+
+install(TARGETS wxhello RUNTIME DESTINATION bin)
+
+set(CPACK_GENERATOR DEB)
+
+set(CPACK_PACKAGE_VERSION_MAJOR "${PROJECT_VERSION_MAJOR}")
+set(CPACK_PACKAGE_VERSION_MINOR "${PROJECT_VERSION_MINOR}")
+set(CPACK_PACKAGE_VERSION_PATCH "${PROJECT_VERSION_PATCH}")
+
+set(CPACK_PACKAGE_CONTACT serg.kekuh@google.com)
+
+include(CPack)
