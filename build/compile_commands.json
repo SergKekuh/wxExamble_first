@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/serg/Documents/wxExample_first/build",
-  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/local/include/wx-3.2  -pthread -g -o CMakeFiles/wxhello.dir/wxhello.cpp.o -c /home/serg/Documents/wxExample_first/wxhello.cpp",
-  "file": "/home/serg/Documents/wxExample_first/wxhello.cpp"
-}
-]
