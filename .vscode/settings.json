@@ -1,7 +1,12 @@
 {
-    "files.associations": {
-        "iostream": "cpp",
-        "ostream": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "enabled"
+	"files.associations": {
+		"iostream": "cpp",
+		"ostream": "cpp"
+	},
+	"C_Cpp.errorSquiggles": "enabled",
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#460376",
+		"titleBar.activeBackground": "#6104A6",
+		"titleBar.activeForeground": "#FEFCFF"
+	}
 }
