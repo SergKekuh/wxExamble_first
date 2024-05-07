@@ -1,0 +1,9 @@
+/home/serg/Documents/wxExample_first/CMakeFiles/wxhello.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/package.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/package_source.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/edit_cache.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/rebuild_cache.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/list_install_components.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/install.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/install/local.dir
+/home/serg/Documents/wxExample_first/CMakeFiles/install/strip.dir

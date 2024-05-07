@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/serg/Documents/wxExample_first")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/serg/Documents/wxExample_first/build")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/serg/Documents/wxExample_first")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
